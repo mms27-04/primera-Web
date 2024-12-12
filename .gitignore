@@ -1,0 +1,5 @@
+*.log
+
+# Ignorar directorios cache y dev
+cache/
+dev/
